@@ -38,7 +38,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Experienced Full Stack Developer Skilled in LAMP stack, JavaScript, DevOps, Containerization, web development and agile software development. Strong engineering professional with a BS focused in Computer Science.
 
@@ -57,6 +57,7 @@ education:
           - Bullet point 
 
 experiences:
+    - title: Work Experience
     - role: Senior Full Stack Web Developer
       time: July 2013 to Present
       company: JewelScent Inc. - Brea, CA
