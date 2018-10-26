@@ -1,4 +1,5 @@
 /* ======= Base ======= */
+
 body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
@@ -9,7 +10,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4, h5, h6  {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 700;
 }
 
@@ -29,11 +35,11 @@ p {
 }
 
 .wrapper {
-    background:$theme-color;
+    background: $theme-color;
     max-width: 1000px;
     margin: 0 auto;
     position: relative;
-    @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
+    @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
 }
 
 .sidebar-wrapper {
@@ -70,7 +76,6 @@ p {
     .profile {
         margin-bottom: 15px;
     }
-
     .avatar {
         //used for profile image
         max-width: 100px;
@@ -80,7 +85,8 @@ p {
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
     .contact-list {
-        .fas, .fab {
+        .fas,
+        .fab {
             margin-right: 5px;
             font-size: 18px;
             vertical-align: middle;
@@ -131,7 +137,6 @@ p {
             color: rgba(256, 256, 256, 0.6);
         }
     }
-
     .languages-list {
         margin-bottom: 0;
         li {
@@ -141,11 +146,11 @@ p {
             }
         }
     }
-
     .interests-list {
         margin-bottom: 0;
         li {
-            margin-bottom: 10px;
+            margin: 10px;
+            display: inline-block;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -169,8 +174,8 @@ p {
     .section {
         margin-bottom: 60px;
     }
-
-    .experiences-section, .educations-section {
+    .experiences-section,
+    .educations-section {
         .item {
             margin-bottom: 30px;
         }
@@ -180,7 +185,8 @@ p {
         overflow: hidden;
         margin-bottom: 2px;
     }
-    .job-title, .degree {
+    .job-title,
+    .degree {
         color: $text-color;
         font-size: 16px;
         margin-top: 0;
@@ -193,11 +199,11 @@ p {
         top: 0;
         color: $text-grey;
     }
-    .company, .university {
+    .company,
+    .university {
         margin-bottom: 10px;
         color: $text-grey;
     }
-
     .project-title {
         font-size: 16px;
         font-weight: 400;
@@ -212,7 +218,6 @@ p {
             margin-bottom: 15px;
         }
     }
-
     .publication-title {
         font-size: 16px;
         font-weight: 400;
@@ -234,7 +239,6 @@ p {
     }
 }
 
-
 .skillset {
     .item {
         margin-bottom: 15px;
@@ -255,9 +259,6 @@ p {
     }
 }
 
-
-
-
 .footer {
     padding-top: 30px;
     .copyright {
@@ -265,9 +266,7 @@ p {
         color: $text-color-secondary;
         font-size: 13px;
     }
-
     .fa-heart {
         color: $heart;
     }
-
 }

@@ -31,34 +31,35 @@ sidebar:
         level: Naive
         
     interests:
-      - item: Hiking
+      - item: <i title="Hiking" class="fas fa-hiking fa-2x"></i>
         link:
 
-      - item: Swimming
+      - item: <i title="Swimming" class="fas fa-swimmer fa-2x"></i>
         link:
         
-      - item: Playing Piano
+      - item: <i title="Playing Piano" class="fas fa-music fa-2x"></i>
+        link:
         link:
         
-      - item: Soccer
+      - item: <i title="Soccer" class="fas fa-futbol fa-2x"></i>
         link:
         
-      - item: Garening
+      - item: <i title="Gardening" class="fab fa-pagelines fa-2x"></i>
         link:
         
-      - item: Learning
+      - item: <i title="Learning" class="fab fa-leanpub fa-2x"></i>
         link:
         
-      - item: Watching movies
+      - item: <i title="Watching movies" class="fas fa-film fa-2x"></i>
         link:
         
-      - item: Running
+      - item: <i title="Running" class="fas fa-running fa-2x"></i>
         link:
         
-      - item: Cycling
+      - item: <i title="Cycling" class="fas fa-bicycle fa-2x"></i>
         link: 
         
-      - item: Reading
+      - item: <i title="Reading" class="fas fa-book-reader fa-2x"></i>
         link:
         
       
