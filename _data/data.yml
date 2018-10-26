@@ -36,6 +36,32 @@ sidebar:
 
       - item: Swimming
         link:
+        
+      - item: Playing Piano
+        link:
+        
+      - item: Soccer
+        link:
+        
+      - item: Garening
+        link:
+        
+      - item: Learning
+        link:
+        
+      - item: Watching movies
+        link:
+        
+      - item: Running
+        link:
+        
+      - item: Cycling
+        link: 
+        
+      - item: Reading
+        link:
+        
+      
 
 career-profile:
     title: Summary
