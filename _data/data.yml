@@ -1,0 +1,178 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Reza Salimian
+    tagline: Senior Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: reza.salimian@gmail.com
+    phone: (714) 273-2242
+    website:  #do not add http://
+    linkedin: rsalimian
+    github: rsalimian
+    gitlab:
+    bitbucket: rsalimian
+    twitter: '@rsalimian'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Farsi
+        level: Naive
+        
+    interests:
+      - item: Hiking
+        link:
+
+      - item: Swimming
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced Full Stack Developer Skilled in LAMP stack, JavaScript, DevOps, Containerization, web development and agile software development. Strong engineering professional with a BS focused in Computer Science.
+
+education:
+    - degree: BS in Computer Science
+      university: Azad University of Najaf Abad
+      time: 1996 - 2001
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point 
+
+experiences:
+    - role: Senior Full Stack Web Developer
+      time: July 2013 to Present
+      company: JewelScent Inc. - Brea, CA
+      details: |
+        - Deployed JewelScent Restful API.
+        - Achieved 50% cost savings by moving virtual machine-based applications to Containers.
+        - Designed and deployed a custom message queue to process background jobs.
+
+    - role: Senior Web Developer / System Administrator
+      time: November 2010 to January 2015
+      company: J. Good-in, Inc. - Brea, CA
+      details: |
+        - Deployed new website and led the process of data migrating from the legacy platform.
+        - JGOOD project, designed and deployed Dropship program.
+        - Worked on JewelPerch Project, a social shopping community with an earn cash rewards system. it was a semi-finalist in the Harvard Business Plan competition.
+        - Worked on Baublebox project, An online retail flash sale store.
+
+    - role: Senior Web Developer
+      time: April 2005 to August 2010
+      company: Pars Fanavaran Kharazm - Tehran
+      details: |
+        - Worked on web application project that communicates with core engine (UTM) via web socket.
+ 
+    - role: Software Engineer
+      time: December 2002 to March 2005
+      company: IRISA - Esfahan
+      details: |
+        - Worked as a developer in Management Information System project in the Steel Manufacturing Industry
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+ 
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Software Development
+        level: 80%
+
+      - name: Web Development
+        level: 80%
+
+      - name: Agile
+        level: 70%
+
+      - name: Scrum
+        level: 70%
+
+      - name: Object-Oriented Programming (OOP)
+        level: 90%
+
+      - name: Ecommerce
+        level: 90%
+
+      - name: Troubleshooting
+        level: 80%
+
+      - name: DevOps
+        level: 60%
+
+      - name: Containerization
+        level: 60%
+
+      - name: VMware ESX
+        level: 60%
+
+      - name: Amazon Web Services
+        level: 60%
+
+      - name: RESTful API
+        level: 80%
+
+      - name: LAMP Stack
+        level: 95%
+
+      - name: Linux and CentOS
+        level: 80%
+
+      - name: Apache andNGINX
+        level: 70%
+
+      - name: PHP
+        level: 95%
+
+      - name: MySQL and SQL
+        level: 95%
+
+      - name: HTML and CSS
+        level: 80%
+
+      - name: JQuery andJavascript
+        level: 70%
+
+      - name: Node.js
+        level: 50%
+
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
