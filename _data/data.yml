@@ -88,30 +88,32 @@ experiences:
       time: July 2013 to Present
       company: JewelScent Inc. - Brea, CA
       details: |
-        - Deployed JewelScent Restful API.
-        - Achieved 50% cost savings by moving virtual machine-based applications to Containers.
-        - Designed and deployed a custom message queue to process background jobs.
+        - Reduced costs by 50% by moving virtual machine-based applications to Docker Swarm Cluster.
+        - Designed and deployed custom message queue to process tasks such as sending order confirmation emails and syncing data to integrated systems.
+        - Devised and produced Docker Swarm Cluster used in production of JewelScent.
+        - Built and configured server architecture, including HAProxy load balancer, cache server, MySQL database servers, and  multi-master replication.
+        - Configured and integrated components and services with Datadog to monitor hosts, databases, database replication, database slow queries, Memcached, NTP clock, Docker services, and HAProxy.
 
     - role: Senior Software Engineer
       time: November 2010 to January 2015
       company: J. Good-in, Inc. - Brea, CA
       details: |
-        - Deployed new website and led the process of data migrating from the legacy platform.
-        - JGOOD project, designed and deployed Dropship program.
-        - Worked on JewelPerch Project, a social shopping community with an earn cash rewards system. it was a semi-finalist in the Harvard Business Plan competition.
-        - Worked on Baublebox project, An online retail flash sale store.
+        - deployed new e-commerce website in three months and led data migration from legacy platform.
+        - Increased sales by implementing a dropship program for wholesale customers (JGOOD project).
+        - Improved website performance and page load time—to less than five seconds—while working on BaubleBox project, an online retail flash sale store.
+        - Coordinated JewelPerch project, a semi-finalist in the Harvard Business Plan competition.
 
     - role: Senior Software Engineer
       time: April 2005 to August 2010
       company: Pars Fanavaran Kharazm - Tehran
       details: |
-        - Worked on web application project that communicates with core engine (UTM) via web socket.
+        - Participated in web application project facilitating the development of an efficient UTM (unified threat management) product.
  
     - role: Software Engineer
       time: December 2002 to March 2005
       company: IRISA - Esfahan
       details: |
-        - Worked as a developer in Management Information System project in the Steel Manufacturing Industry
+        - Helped develop Management Information System project in the steel manufacturing industry.
 
 #projects:
 #    title: Projects
