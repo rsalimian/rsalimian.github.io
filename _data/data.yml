@@ -68,8 +68,8 @@ career-profile:
     title: Summary
     summary: |
       Talented full stack developer with 15+ years of experience designing programs that deliver the highest quality and optimize the customer experience.
-      <br>Software Development Life Cycle • DevOps • Containerization & Virtualization 
-      Cloud Computing & Web Development  • Object-Oriented Programming (OOP) 
+      <br><br>Software Development Life Cycle • DevOps • Containerization & Virtualization 
+      <br>Cloud Computing & Web Development  • Object-Oriented Programming (OOP) 
 
 education:
     - degree: BS in Computer Science
