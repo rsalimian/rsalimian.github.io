@@ -84,7 +84,7 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Senior Full Stack Web Developer
+    - role: Senior Software Engineer
       time: July 2013 to Present
       company: JewelScent Inc. - Brea, CA
       details: |
@@ -92,7 +92,7 @@ experiences:
         - Achieved 50% cost savings by moving virtual machine-based applications to Containers.
         - Designed and deployed a custom message queue to process background jobs.
 
-    - role: Senior Web Developer / System Administrator
+    - role: Senior Software Engineer
       time: November 2010 to January 2015
       company: J. Good-in, Inc. - Brea, CA
       details: |
@@ -101,7 +101,7 @@ experiences:
         - Worked on JewelPerch Project, a social shopping community with an earn cash rewards system. it was a semi-finalist in the Harvard Business Plan competition.
         - Worked on Baublebox project, An online retail flash sale store.
 
-    - role: Senior Web Developer
+    - role: Senior Software Engineer
       time: April 2005 to August 2010
       company: Pars Fanavaran Kharazm - Tehran
       details: |
